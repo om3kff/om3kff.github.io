@@ -76,6 +76,8 @@ OM3KFF HamRadio Links
 
 ## Portable aktivity
 
+## CEPT a vysielanie v zahraničí
+
 ## Technika všeobecne
 
 ## Radioamatérsky software a mobilné aplikácie
