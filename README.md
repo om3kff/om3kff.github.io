@@ -24,6 +24,8 @@ OM3KFF HamRadio Links
 - [SOTA viacpásmový dipól](https://om3kff.sk/2014/05/lahky-viacpasmovy-dipol-pre-sota/?lang=sk)
 - [Linkovaný dipól - návrh](https://www.sotabeams.co.uk/linked-dipoles/)
 
+### RandomWire - na konci napájané nerezonančné antény
+
 ### Yagi antény
 
 ### Vertikálne antény
@@ -73,5 +75,7 @@ OM3KFF HamRadio Links
 ## Portable aktivity
 
 ## Technika všeobecne
+
+## Radioamatérsky software a mobilné aplikácie
 
 ## Videá
