@@ -14,11 +14,23 @@ OM3KFF HamRadio Links
 
 ### Dipólové antény
 
+- vhodné tam, kde je trošku miesta
+- vhodné aj na portable
+- anténa je konštrukčne jednoduchá
+- dipóly sú v základnom prevedení jednopásmové
+- existujú aj viacpásmové dipóly
+- Invertované V - *INV V* je tiež forma dipólu
+
+- [SOTA viacpásmový dipól](https://om3kff.sk/2014/05/lahky-viacpasmovy-dipol-pre-sota/?lang=sk)
+- [Linkovaný dipól - návrh](https://www.sotabeams.co.uk/linked-dipoles/)
+
 ### Yagi antény
 
 ### Vertikálne antény
 
 ### Antény na príjem HF, VHF, UHF, Meteo, SAT
+
+## Baluny, ununy, jadrá
 
 ---
 
@@ -30,3 +42,36 @@ OM3KFF HamRadio Links
 - [Ako pracovať s Ionogramom 1](https://www.ok1kze.com/radioklub/historie-2/ionogram-a-souvislost-s-delkou-skoku-odrazem-od-ionosfery)
 - [Ako pracovať s Ionogramom 2](https://ok1dn.webnode.cz/news/ionogram/)
 
+## Elektronické QSL služby
+## Digi módy
+## DX cluters
+
+---
+## Denníky pre spojenia a kontesty
+
+### Pre bežné spojenia
+
+- [Log4OM](https://www.log4om.com/) - freeware, Windows
+- [Logger32](https://www.logger32.net/) - freeware, Windows
+- [SwissLog](https://www.swisslogforwindows.com/) - freeware, Windows
+- [Hamradio Deluxe](https://www.hamradiodeluxe.com/) - shareware, Windows
+- [KLog](https://www.klog.xyz/) - openSource, Windows, Mac, Linux
+- [MacLogger DX](https://www.dogparksoftware.com/MacLoggerDX.html) - shareware, Mac
+- [RumLog](https://dl2rum.de/rumsoft/RUMLog.html) - shareware, Mac
+- [RumLog2go](https://dl2rum.de/rumsoft/RUMlog2Go.html) - shareware, IOS, iPadOS
+- [Tucnak](https://tucnak.nagano.cz/wiki/Main_Page) - openSource, Linux, Windows, Android
+
+### Pre kontesty
+
+- [N1MM plus](https://n1mmwp.hamdocs.com/) - freeware, Windows
+- [DXlog](https://www.dxlog.net/) - freeware, Windows
+- [TR4W](https://tr4w.net/) - freeware, Windows
+- [Minos logger VHF/UHF/SHF](https://minos.sourceforge.net/) - freeware, Windows
+- [Not1mm](https://github.com/mbridak/not1mm) - openSource, Windows, Linux, Mac
+
+--- 
+## Portable aktivity
+
+## Technika všeobecne
+
+## Videá
