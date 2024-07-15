@@ -72,6 +72,8 @@ OM3KFF HamRadio Links
 - [Not1mm](https://github.com/mbridak/not1mm) - openSource, Windows, Linux, Mac
 
 --- 
+## Významné kontesty
+
 ## Portable aktivity
 
 ## Technika všeobecne
