@@ -58,6 +58,7 @@ OM3KFF HamRadio Links
 - [SwissLog](https://www.swisslogforwindows.com/) - freeware, Windows
 - [Hamradio Deluxe](https://www.hamradiodeluxe.com/) - shareware, Windows
 - [KLog](https://www.klog.xyz/) - openSource, Windows, Mac, Linux
+- [CQRLOG](https://www.cqrlog.com/) - openSource, Linux
 - [MacLogger DX](https://www.dogparksoftware.com/MacLoggerDX.html) - shareware, Mac
 - [RumLog](https://dl2rum.de/rumsoft/RUMLog.html) - shareware, Mac
 - [RumLog2go](https://dl2rum.de/rumsoft/RUMlog2Go.html) - shareware, IOS, iPadOS
