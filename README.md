@@ -43,9 +43,13 @@ OM3KFF HamRadio Links
 - [Ionogram Pruhonice](http://digisonda.ufa.cas.cz/latestFrames.htm)
 - [Ako pracovať s Ionogramom 1](https://www.ok1kze.com/radioklub/historie-2/ionogram-a-souvislost-s-delkou-skoku-odrazem-od-ionosfery)
 - [Ako pracovať s Ionogramom 2](https://ok1dn.webnode.cz/news/ionogram/)
+- [DX propagation tool](https://dr2w.de/dx-propagation/)
 
 ## Elektronické QSL služby
 ## Digi módy
+
+- [PSK reporter](https://pskreporter.info/pskmap.html) - mapa šírenia digimódov
+
 ## DX cluters
 
 ---
@@ -75,7 +79,14 @@ OM3KFF HamRadio Links
 --- 
 ## Významné kontesty
 
+- [Rozcestník kontestov](https://contest.run/)
+
 ## Portable aktivity
+
+## Glosár a pojmológia
+
+- [ARRL Glossary](https://www.arrl.org/ham-radio-glossary)
+- [Pojmy a vysvetlenia pojmov](https://www.nyc-arecs.org/icom_terms.pdf)
 
 ## CEPT a vysielanie v zahraničí
 
