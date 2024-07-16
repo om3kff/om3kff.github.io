@@ -187,11 +187,20 @@ OM3KFF HamRadio Links
 ## Technika všeobecne
 
 - [OM3LU - pojednanie o ochrane antén](https://om3lu.blogspot.com/2021/09/ochrana-radioamaterskych-zariadeni-pred.html)
-- TODO
+- [OK1IKE antény](http://ok1ike.c-a-v.com/hamradio_soubory/ant_odkazy.htm)
 
 ## Radioamatérsky software a mobilné aplikácie
 
-- TODO
+- [CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Download) - SW na spravu pamäte pre rúčky a mobilky
+- [SolarData](https://apps.apple.com/us/app/solar-data-propagation/id1298061915) - podmienky šírenia, iOS, iPadOS
+- [APRS.FI iphone](https://apps.apple.com/us/app/aprs-fi/id922155038) - APRS klient, iOS, iPadOS
+- [APRSdroid](https://aprsdroid.org/) - APRS klient, Android
+- [RepeaterBook](https://www.repeaterbook.com/index.php/en-us/) - web, iOS, iPadOS, Android
+- [SotaFinder](https://www.zbm2.com/sota.html) - iOS, iPadOS, Android
+- Echolink - iOS, Android
+- HamAlert - iOS, Android
+- SSTV - iOS
+- MaidenHead - iOS
 
 ## Videá
 
