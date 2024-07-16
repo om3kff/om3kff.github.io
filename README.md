@@ -92,6 +92,16 @@ OM3KFF HamRadio Links
 
 ## Digi módy
 
+- aktuálne najpoužívanejšie digimódy sú FT8/FT4 (JS8CAll), PSK31, RTTY, VARA HF
+- menej používané ale zaujímavé digimódy sú Olivia, HellSchreiber
+- veľmi obľubený mód je SSTV (väčšina aktivity je na 14,230 MHz)
+
+- [WSJT-X pre FT8/FT4](https://wsjt.sourceforge.io/) - základný SW pre FT8/FT4 módy
+- [MSHV pre FT8/FT4](http://lz2hv.org/mshv) - funkčne komplexnejší SW pre FT8/FT4 módy
+- [FLdigi - PSK, RTTY a iné](https://sourceforge.net/projects/fldigi/) - univerzálny SW pre mnoho digimódov
+- [VARAc](https://www.varac-hamradio.com/) - chatovací klient pre VARA HF
+- [MMSSTV_YONIQ](https://hamsoft.ca/pages/mmsstv-yoniq.php) - SSTV
+- [RTTY Contesting](https://www.rttycontesting.com/) - tutoriály pre konestovanie v digi módoch
 - [PSK reporter](https://pskreporter.info/pskmap.html) - mapa šírenia digimódov
 
 ## DX Clusters
@@ -141,7 +151,7 @@ OM3KFF HamRadio Links
 
 ## CEPT a vysielanie v zahraničí, Bandplan
 
-- naše oprávnenia zodpovedajú CEPT (trieda E) a CEPT N (trieda N)
+- naše oprávnenia zodpovedajú **CEPT** *(trieda E)* a **CEPT Novice** *(trieda N)*
 
 - [CEPT - vysielanie v zahraničí](https://www.iaru-r1.org/reference/operating-abroad/) - vyhľadať si DARC PDF link
 - [Bandplan](https://www.iaru-r1.org/reference/band-plans/)
