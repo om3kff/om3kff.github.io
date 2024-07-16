@@ -138,6 +138,7 @@ OM3KFF HamRadio Links
 ## Významné kontesty
 
 - [Rozcestník kontestov](https://contest.run/)
+- TODO
 
 ## Portable aktivity
 
@@ -163,6 +164,7 @@ OM3KFF HamRadio Links
 - [Slovenský sväz rádioamatérov](https://www.hamradio.sk/)
 - [OM CallBook](https://depe.sk/omcb/)
 - [Rádiožurnál](https://www.radiozurnal.sk/)
+- [ARES](https://aresom.wordpress.com/)
 - [CQ.sk](https://cq.sk/)
 - [Prevádzače OM](https://sites.google.com/site/prevadzace/zoznam-om-prev%C3%A1dza%C4%8Dov)
 - [DMR Brandmeister OM](https://wiki.brandmeister.network/index.php/Slovakia)
@@ -171,6 +173,7 @@ OM3KFF HamRadio Links
 ## Technika všeobecne
 
 - [OM3LU - pojednanie o ochrane antén](https://om3lu.blogspot.com/2021/09/ochrana-radioamaterskych-zariadeni-pred.html)
+- TODO
 
 ## Radioamatérsky software a mobilné aplikácie
 
