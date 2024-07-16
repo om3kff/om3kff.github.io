@@ -26,15 +26,40 @@ OM3KFF HamRadio Links
 
 ### RandomWire - na konci napájané nerezonančné antény
 
-### Yagi antény
+- veľmi kompromisné nerezonančné antény
+- vhodné tam, kde sa nedá natiahnuť rezonančná anténa
+- takmer vždy je potrebné používať anténny tuner
+- anténa môže byť viacpásmová
+
+- [Unun podľa DK7ZB](https://www.qsl.net/dk7zb/Baluns/MTFT.htm)
+- [Doporučené dĺžky](https://udel.edu/~mm/ham/randomWire/)
+- [Doporučené dĺžky a teória](https://www.hamuniverse.com/randomwireantennalengths.html)
+- [Návod podľa OK1IKE](http://ok1ike.c-a-v.com/soubory/drat_ant.htm)
+
+### Yagi antény, Moxon antény
+
+- vhodné tam, kde je dostatok priestoru
+- vyžadujú rotátor, sú smerové
+- vhodné na DX
+- konštrukčne jednoduché a replikovateľné, ale pre VKV je vyžadovaná presnosť výroby
+- používajú sa na vyššie pásma KV a v oblasti VHF/UHF/MW
+- existuju jedno a viacpásmové
+- vhodné pre KV, VKV a satelitné spojenia
+
+- [Navod pre pásmo 2m/70cm podľa DK7ZB](https://www.qsl.net/dk7zb/PVC-Yagis/PVC-details.htm)
 
 ### Vertikálne antény
 
+- TODO
+
 ### Antény na príjem HF, VHF, UHF, Meteo, SAT
 
-## Baluny, ununy, jadrá
+- aktívne a pasívne antény vhodné na príjem/SWL, zvyčajne pre SDR
 
----
+- [PA0RDT MiniWhip](https://www.pa3fwm.nl/technotes/tn07.html)
+- [Moebius Loop](https://swling.com/blog/2020/04/diy-how-to-build-a-noise-cancelling-passive-loop-ncpl-antenna/)
+
+## Baluny, ununy, jadrá
 
 ## Šírenie rádiových vĺn
 
@@ -45,7 +70,12 @@ OM3KFF HamRadio Links
 - [Ako pracovať s Ionogramom 2](https://ok1dn.webnode.cz/news/ionogram/)
 - [DX propagation tool](https://dr2w.de/dx-propagation/)
 
+### Šírenie VKV
+
+- TODO
+
 ## Elektronické QSL služby
+
 ## Digi módy
 
 - [PSK reporter](https://pskreporter.info/pskmap.html) - mapa šírenia digimódov
@@ -91,6 +121,8 @@ OM3KFF HamRadio Links
 ## CEPT a vysielanie v zahraničí
 
 ## Technika všeobecne
+
+## Hamradio v OM
 
 ## Radioamatérsky software a mobilné aplikácie
 
