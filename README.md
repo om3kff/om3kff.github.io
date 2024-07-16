@@ -59,6 +59,7 @@ OM3KFF HamRadio Links
 - [PA0RDT MiniWhip](https://www.pa3fwm.nl/technotes/tn07.html)
 - [Moebius Loop](https://swling.com/blog/2020/04/diy-how-to-build-a-noise-cancelling-passive-loop-ncpl-antenna/)
 - [PA0FRI Active Loop](https://pa0fri.home.xs4all.nl/Ant/Active%20antenna/Active%20receiving%20%20loop%20antenna%20eng.htm)
+- TODO
 
 ## Baluny, ununy, jadrá
 
