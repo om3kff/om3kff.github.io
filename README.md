@@ -137,8 +137,22 @@ OM3KFF HamRadio Links
 
 ## Významné kontesty
 
+- [CQ World Wide DX Contest](https://cqww.com/) - KV SSB
+- [CQ World Wide WPX Contest](https://cqwpx.com/) - KV SSB
+- [CQ WW RTTY Contest](https://cqwwrtty.com/) - KV RTTY
+- [CQ WPX RTTY Contest](https://cqwpxrtty.com/) - KV RTTY
+- [RSGB IOTA](https://www.rsgbcc.org/hf/iota.shtml) - KV SSB/CW
+- [IARU HF World Championship](https://www.arrl.org/iaru-hf-world-championship) - KV SSB/CW
+- [YOTA Contest](https://www.ham-yota.com/contest/) - KV SSB/CW
+- [OK OM DX contest](http://www.okomdx.crk.cz/) - KV SSB/CW
+- [VKV kontesty](https://vkv.szr.sk/) - VKV SSB/CW
 - [Rozcestník kontestov](https://contest.run/)
-- TODO
+- [Kontestový kalendár](https://www.contestcalendar.com/contestcal.html)
+
+## Lokálne kontesty a aktivity
+
+- [SSB Liga 80m](http://ssbliga.nagano.cz/) - KV SSB, OM+OK
+- [VKV Prevadzkový aktív](https://pa.telesweb.sk/) - VKV SSB/CW, OM+OK
 
 ## Portable aktivity
 
