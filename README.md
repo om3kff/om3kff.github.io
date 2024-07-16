@@ -46,7 +46,7 @@ OM3KFF HamRadio Links
 - existuju jedno a viacpásmové
 - vhodné pre KV, VKV a satelitné spojenia
 
-- [Navod pre pásmo 2m/70cm podľa DK7ZB](https://www.qsl.net/dk7zb/PVC-Yagis/PVC-details.htm)
+- [Návod pre pásmo 2m/70cm podľa DK7ZB](https://www.qsl.net/dk7zb/PVC-Yagis/PVC-details.htm)
 
 ### Vertikálne antény
 
@@ -139,17 +139,35 @@ OM3KFF HamRadio Links
 - [ARRL Glossary](https://www.arrl.org/ham-radio-glossary)
 - [Pojmy a vysvetlenia pojmov](https://www.nyc-arecs.org/icom_terms.pdf)
 
-## CEPT a vysielanie v zahraničí
+## CEPT a vysielanie v zahraničí, Bandplan
 
-## Technika všeobecne
+- naše oprávnenia zodpovedajú CEPT (trieda E) a CEPT N (trieda N)
+
+- [CEPT - vysielanie v zahraničí](https://www.iaru-r1.org/reference/operating-abroad/) - vyhľadať si DARC PDF link
+- [Bandplan](https://www.iaru-r1.org/reference/band-plans/)
 
 ## Hamradio v OM
 
+- [Prevádzka rádioamatérkych staníc 2022](https://www.slov-lex.sk/static/pdf/2022/291/ZZ_2022_291_20220901.pdf)
+- [Vyhláška §291/2022 - predpisy](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2022/291/)
 - [Slovenský sväz rádioamatérov](https://www.hamradio.sk/)
 - [OM CallBook](https://depe.sk/omcb/)
 - [Rádiožurnál](https://www.radiozurnal.sk/)
 - [CQ.sk](https://cq.sk/)
+- [Prevádzače OM](https://sites.google.com/site/prevadzace/zoznam-om-prev%C3%A1dza%C4%8Dov)
+- [DMR Brandmeister OM](https://wiki.brandmeister.network/index.php/Slovakia)
+- [Všeobecné info o DMR](https://mhz.sk/dmr/)
+
+## Technika všeobecne
+
+- [OM3LU - pojednanie o ochrane antén](https://om3lu.blogspot.com/2021/09/ochrana-radioamaterskych-zariadeni-pred.html)
 
 ## Radioamatérsky software a mobilné aplikácie
 
+- TODO
+
 ## Videá
+
+- [Tech Minds](https://www.youtube.com/channel/UC9a8Z6Sp6eb2s3O79pX5Zvg) - technické videá
+- [OM4AJK](https://www.youtube.com/channel/UCdLOCK0v7IfUtbTSY1khr7Q) - komunitné videá
+- [OM0ET](https://www.youtube.com/channel/UCy7btBpJl8olJlBu3c87eog) - propagačné videá
