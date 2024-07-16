@@ -58,8 +58,15 @@ OM3KFF HamRadio Links
 
 - [PA0RDT MiniWhip](https://www.pa3fwm.nl/technotes/tn07.html)
 - [Moebius Loop](https://swling.com/blog/2020/04/diy-how-to-build-a-noise-cancelling-passive-loop-ncpl-antenna/)
+- [PA0FRI Active Loop](https://pa0fri.home.xs4all.nl/Ant/Active%20antenna/Active%20receiving%20%20loop%20antenna%20eng.htm)
 
 ## Baluny, ununy, jadrá
+
+- [BalUn, UnUn - teória](http://vk5ajl.com/projects/baluns.php)
+- [Parametre toroidov](https://toroids.info/)
+- [Potlačenie pláštových prúdov](http://www.karinya.net/g3txq/chokes/)
+- [Balun podľa OM3LU pre dipól](https://om3lu.blogspot.com/2020/07/ochrana-prijmu-proti-indukovanym-vf_8.html)
+- [Baluny podľa OM3LU](https://om3lu.blogspot.com/2023/01/ako-si-vyrobime-dobre-baluny-11-14.html)
 
 ## Šírenie rádiových vĺn
 
@@ -76,13 +83,25 @@ OM3KFF HamRadio Links
 
 ## Elektronické QSL služby
 
+- služby určené na potvrdzovanie spojení elektronickou formou alebo na zverejnenie svojho logbooku
+
+- [QRZ.com](https://www.qrz.com/) - rádioamatérsky callbook, používa prakticky každý radioamatér
+- [LoTW](https://lotw.arrl.org/lotw-help/getting-started/) - dôležitá služba, používa vačšina rádioamatérov
+- [eQSL](https://eqsl.cc/qslcard/Login.cfm) - veľmi rozšírená služba, používa vačšina rádioamatérov
+- [ClubLog](https://clublog.org/) - rozšírená služba, predovšetkým pre expedície a vzácne DX
+
 ## Digi módy
 
 - [PSK reporter](https://pskreporter.info/pskmap.html) - mapa šírenia digimódov
 
-## DX cluters
+## DX Clusters
 
----
+- [DxHeat](https://www.dxheat.com/dxc/)
+- [HB9VQQ DXCluster](https://webcluster.hb9vqq.ch/)
+- [HamAlert](https://hamalert.org/)
+- [DxSummit](http://dxsummit.fi/#/) - ideálny pre portable aktivity
+- [Hamspots](https://hamspots.net/) - DX cluster pre digimódy a CW
+
 ## Denníky pre spojenia a kontesty
 
 ### Pre bežné spojenia
@@ -106,12 +125,14 @@ OM3KFF HamRadio Links
 - [Minos logger VHF/UHF/SHF](https://minos.sourceforge.net/) - freeware, Windows
 - [Not1mm](https://github.com/mbridak/not1mm) - openSource, Windows, Linux, Mac
 
---- 
 ## Významné kontesty
 
 - [Rozcestník kontestov](https://contest.run/)
 
 ## Portable aktivity
+
+- [SOTA](https://sota.telesweb.sk/)
+- [WWFF](http://omff.wz.sk/)
 
 ## Glosár a pojmológia
 
@@ -123,6 +144,11 @@ OM3KFF HamRadio Links
 ## Technika všeobecne
 
 ## Hamradio v OM
+
+- [Slovenský sväz rádioamatérov](https://www.hamradio.sk/)
+- [OM CallBook](https://depe.sk/omcb/)
+- [Rádiožurnál](https://www.radiozurnal.sk/)
+- [CQ.sk](https://cq.sk/)
 
 ## Radioamatérsky software a mobilné aplikácie
 
