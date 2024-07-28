@@ -103,7 +103,7 @@ OM3KFF HamRadio Links
 - [FLdigi - PSK, RTTY a iné](https://sourceforge.net/projects/fldigi/) - univerzálny SW pre mnoho digimódov
 - [VARAc](https://www.varac-hamradio.com/) - chatovací klient pre VARA HF
 - [MMSSTV_YONIQ](https://hamsoft.ca/pages/mmsstv-yoniq.php) - SSTV
-- [RTTY Contesting](https://www.rttycontesting.com/) - tutoriály pre konestovanie v digi módoch
+- [RTTY Contesting](https://www.rttycontesting.com/) - tutoriály pre kontestovanie v digi módoch
 - [PSK reporter](https://pskreporter.info/pskmap.html) - mapa šírenia digimódov
 
 ## DX Clusters
@@ -171,7 +171,7 @@ OM3KFF HamRadio Links
 
 - naše oprávnenia zodpovedajú **CEPT** *(trieda E)* a **CEPT Novice** *(trieda N)*
 
-- [CEPT - vysielanie v zahraničí](https://www.iaru-r1.org/reference/operating-abroad/) - vyhľadať si DARC PDF link
+- [CEPT - vysielanie v zahraničí](https://www.iaru-r1.org/reference/operating-abroad/) - vyhľadať si **DARC PDF link**
 - [Bandplan](https://www.iaru-r1.org/reference/band-plans/)
 
 ## Hamradio v OM
@@ -194,7 +194,7 @@ OM3KFF HamRadio Links
 
 ## Radioamatérsky software a mobilné aplikácie
 
-- [CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Download) - SW na spravu pamäte pre rúčky a mobilky
+- [CHIRP](https://chirpmyradio.com/projects/chirp/wiki/Download) - SW na správu pamäte pre rúčky a mobilky
 - [SolarData](https://apps.apple.com/us/app/solar-data-propagation/id1298061915) - podmienky šírenia, iOS, iPadOS
 - [APRS.FI iphone](https://apps.apple.com/us/app/aprs-fi/id922155038) - APRS klient, iOS, iPadOS
 - [APRSdroid](https://aprsdroid.org/) - APRS klient, Android
