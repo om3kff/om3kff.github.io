@@ -207,6 +207,7 @@ OM3KFF HamRadio Links
 
 ## Videá
 
+- [OM3KFF Youtube kanál](https://www.youtube.com/@OM3KFF/playlists) - technika, prevádzka, návody
 - [Tech Minds](https://www.youtube.com/channel/UC9a8Z6Sp6eb2s3O79pX5Zvg) - technické videá
 - [OM4AJK](https://www.youtube.com/channel/UCdLOCK0v7IfUtbTSY1khr7Q) - komunitné videá
 - [OM0ET](https://www.youtube.com/channel/UCy7btBpJl8olJlBu3c87eog) - propagačné videá
